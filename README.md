@@ -1,3 +1,4 @@
+Pull without commit
 commit 1
 commit 2 hh
 local changes to be overwritten
